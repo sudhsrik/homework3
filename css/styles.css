@@ -111,7 +111,7 @@ header{
   height: 400px;                /* Parallax effect */
   /* Your code here */
   /* Set background-image to header.jpg in the images folder */
-  background-image: url("images/header.jpg");
+  background-image: url("images/header.jpg") #dddddd #858585 #707070 #b3b3b3;
   min-height: 400px;
   /* Span one row */
   grid-column: 1 / -1;
